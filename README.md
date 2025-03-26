@@ -82,10 +82,6 @@ student-crud-app/
 - Add pagination for the student list.
 - Secure the application using authentication and authorization.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributions
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
